@@ -4,3 +4,15 @@
     --light-gray-color: #eee;
     --gap: 3rem;
 }
+
+.color-red {
+    color: red;
+}
+
+.color-orange {
+    color: orange;
+}
+
+.color-green {
+    color: green;
+}
