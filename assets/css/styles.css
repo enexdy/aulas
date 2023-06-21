@@ -145,3 +145,19 @@ button:hover {
     margin: 0;
     padding: 2.5rem;
 }
+
+@media (max-width: 800px) {
+    .valorant-content, .grid {
+        grid-template-columns: 1fr;
+    }
+
+    .gallery-img {
+        width: 100%;
+        max-width: 100%;
+        max-height: 100%;
+    }
+
+    .gallery-img img {
+        width: 100%;
+    }
+}
