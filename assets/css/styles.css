@@ -18,6 +18,11 @@
     height: auto;
 }
 
+.contactus-img img {
+    max-width: 85%;
+    height: auto;
+}
+
 .lol-content{
     max-width: 80rem;
     min-height: 100vh;
