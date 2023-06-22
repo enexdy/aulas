@@ -233,4 +233,10 @@ button:hover {
     .menu-spacing {
         display: none;
     }
+
+    h2 {
+        font-size: 5rem;
+        margin-bottom: 4rem;
+        text-transform: uppercase;
+    }
 }
